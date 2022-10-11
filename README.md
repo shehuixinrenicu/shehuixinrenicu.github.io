@@ -3,7 +3,9 @@
 
 ### 社会新人公益课，开通了 :)
 
-<a href="#zhengwen">看正文</a>
+[TOC]
+
+[看正文](#zhengwen)
 
 
 [工作](#gongzuo)
