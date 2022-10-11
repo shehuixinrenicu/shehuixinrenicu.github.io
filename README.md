@@ -3,7 +3,8 @@
 
 ### 社会新人公益课，开通了 :)
 
-[分类看正文 ](#zhengwen) 
+<a href="#zhengwen">看正文</a>
+
 
 [工作](#gongzuo)
 
@@ -29,7 +30,6 @@
 
 
 
-## <a href="#zhengwen">社会新人公益课</a>
 
 <p id = "zhengwen"></p>
 
