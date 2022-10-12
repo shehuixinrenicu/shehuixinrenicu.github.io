@@ -7,7 +7,6 @@
 
 [PDF版本下载：https://shehuixinren.icu/pdf/20221012v.pdf](/download.html)
 
-![img](/pdf/help.png)
 
 [看正文](#zhengwen)
 
