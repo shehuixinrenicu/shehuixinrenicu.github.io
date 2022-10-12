@@ -5,9 +5,9 @@
 
 [定期存档地址：https://shehuixinren.icu](https://shehuixinren.icu)
 
-[PDF版本下载：https://shehuixinren.icu/_pdf/20221012v.pdf](/_pdf/20221012v.pdf)
+[PDF版本下载：https://shehuixinren.icu/pdf/20221012v.pdf](/pdf/20221012v.pdf)
 
-![互帮互助helpeachother](/_pdf/help.png)
+![互帮互助helpeachother](/pdf/help.png)
 
 [看正文](#zhengwen)
 
