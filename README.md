@@ -1,8 +1,10 @@
 # 社会新人公益课
 (又名：社会新人急救室)
 
-### 社会新人公益课，开通了 :)
+** 社会新人公益课，开通了 :) **
 [定期存档地址：https://shehuixinren.icu](https://shehuixinren.icu)
+
+[PDF版本下载：](/_pdf/20221012v.pdf)
 
 [看正文](#zhengwen)
 
