@@ -7,7 +7,7 @@
 
 [PDF版本下载：https://shehuixinren.icu/download.html](https://shehuixinren.icu/download.html)
 
-https://shehuixinren.icu/download.html
+---
 
 [看正文](#zhengwen)
 
@@ -39,7 +39,6 @@ https://shehuixinren.icu/download.html
 
 <p id = "zhengwen"></p>
 
-# 社会新人公益课
 
 <p id = "gongzuo"></p>
 
